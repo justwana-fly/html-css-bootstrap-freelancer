@@ -11,4 +11,12 @@
 .footer-one{
     background-color: #3A546D;
 }
-
+.padding-h{
+    padding: 50px 0px;
+}
+main .star {
+    padding-bottom: 20px;
+}
+.portfolio img {
+    padding: 10px 0;
+}
