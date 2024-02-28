@@ -4,6 +4,7 @@
 }
 .star, .about {
     background-color: #1ABC9C;
+
 }
 .portfolio, .contact {
     background-color: #FFFFFF;
@@ -22,4 +23,38 @@ main .star {
 .custom-img {
     width: 250px; 
     height: auto;
+}
+footer {
+    color: white;
+    text-align: center;
+}
+.green {
+    color: #1ABC9C;
+}
+.star-row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/* portfolio star, contact me */
+.border-left{
+    margin-right: 15px;
+    width: 100px;
+    border: 2px solid #2C3E50;
+}
+.border-right{
+    margin-left: 15px;
+    width: 100px;
+    border: 2px solid #2C3E50;
+}
+/* start bootstrap star, about */
+.border-left-white{
+    margin-right: 15px;
+    width: 100px;
+    border: 2px solid white;
+}
+.border-right-white{
+    margin-left: 15px;
+    width: 100px;
+    border: 2px solid white;
 }
