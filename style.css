@@ -1,0 +1,14 @@
+.header, .footer-two{
+    background-color: #2C3E50;
+    color: white;
+}
+.star, .about {
+    background-color: #1ABC9C;
+}
+.portfolio, .contact {
+    background-color: #FFFFFF;
+}
+.footer-one{
+    background-color: #3A546D;
+}
+
